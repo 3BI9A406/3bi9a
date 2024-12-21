@@ -1,0 +1,29 @@
+* {
+    padding: 0 ;
+    margin:0 auto;
+}
+img{ 
+    width: 150px;
+    height: 100px;
+    display: flex;
+  
+}
+header{
+    background-color: rgb(228, 16, 16);
+    display: flex;
+    justify-content: space-between;
+    
+  
+ 
+ }
+.nav-list li{
+    display: inline-block;
+  
+  
+  
+}
+.main-nav{
+    background-color: black;
+}
+
+  
